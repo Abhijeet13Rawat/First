@@ -1,2 +1,2 @@
 # First
-Use for projects
+My first book
